@@ -8,5 +8,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("CODE THUOC MASTER");
         System.out.println("CODE THUOC DEV");
+        System.out.println("MASTER THAY DOI");
     }
 }
