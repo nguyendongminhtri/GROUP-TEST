@@ -9,5 +9,6 @@ public class Main {
         System.out.println("CODE THUOC MASTER");
         System.out.println("CODE THUOC DEV");
         System.out.println("MASTER THAY DOI");
+        System.out.println("CODE CHINH2");
     }
 }
